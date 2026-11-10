@@ -1,0 +1,13 @@
+GITHUB PAGES - R VAN ENGELENHOVEN
+
+1. Pak deze ZIP uit in de Bestanden-app op iPhone.
+2. Open in Safari github.com/rve1302/rvanengelenhoven-
+3. Kies Add file > Upload files (mogelijk onder het menu met drie puntjes).
+4. Upload index.html, style.css, script.js en de afbeeldingen uit assets/.
+5. BELANGRIJK: behoud de map assets en de bestandsnamen. Als je via GitHub uploadt, kun je eerst in de map assets gaan en daar de afbeeldingen uploaden.
+6. Bevestig met Commit changes.
+7. Open https://rve1302.github.io/rvanengelenhoven-/ en ververs na enkele minuten.
+
+LET OP: Dit pakket is gebaseerd op de eerdere versie van de site. Wijzigingen die je later rechtstreeks op GitHub hebt gemaakt worden niet automatisch meegenomen. Maak zo nodig eerst een backup.
+De bestaande projectfoto-plaatsen en het tijdelijke e-mailadres in de eerdere versie zijn nog niet ingevuld.
+De partneromschrijvingen zijn redactionele voorstellen; controleer ze met de partners voor publicatie.
