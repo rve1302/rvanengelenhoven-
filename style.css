@@ -10,3 +10,18 @@
 .partner-logo:hover,.partner-logo:focus-visible{opacity:.82;transform:translateY(-2px)}
 .partner-website-link{display:inline-block;margin-top:16px;color:#d7b76d;font-weight:600;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:3px;transition:color .2s ease}
 .partner-website-link:hover,.partner-website-link:focus-visible{color:#fff}
+
+/* Offerteformulier */
+.quote-form{max-width:790px;margin:36px auto 12px;padding:34px;border:1px solid #79623b;background:linear-gradient(145deg,#191712,#100f0d);text-align:left;box-shadow:0 15px 55px #0005}
+.form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px 20px}
+.quote-form label{display:flex;flex-direction:column;gap:9px;font-size:12px;letter-spacing:.07em;font-weight:700;color:#e9dfcc}
+.quote-form label span{color:#d7b365}.quote-form .form-wide{grid-column:1/-1}
+.quote-form input,.quote-form textarea{width:100%;border:1px solid #65573f;background:#0b0b0a;color:#fff;padding:15px 16px;font:400 15px 'DM Sans',Arial,sans-serif;border-radius:0;outline:none;letter-spacing:normal}
+.quote-form input::placeholder,.quote-form textarea::placeholder{color:#9b9488}
+.quote-form input:focus,.quote-form textarea:focus{border-color:#e1be70;box-shadow:0 0 0 2px #e1be7025}
+.quote-form textarea{resize:vertical;min-height:150px}
+.quote-form .form-privacy{color:#aaa397;text-align:left;font-size:12px;line-height:1.65;margin:18px 0 24px}
+.quote-form .form-submit{border:0;cursor:pointer;min-width:235px}
+.quote-form .form-help{font-size:12px;margin:18px 0 0;color:#bdb5a8;text-align:left}
+.quote-form .form-honey{display:none!important}
+@media(max-width:600px){.quote-form{padding:22px 18px}.form-grid{grid-template-columns:1fr;gap:17px}.quote-form .form-submit{width:100%}}

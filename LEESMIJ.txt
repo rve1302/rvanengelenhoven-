@@ -1,0 +1,13 @@
+R VAN ENGELENHOVEN - CONTACTFORMULIER UPDATE
+
+Upload alleen de bestanden index.html en style.css uit deze ZIP naar de HOOFDMAP van je GitHub-repository. Bestaande bestanden vervangen.
+De map assets en script.js hoeven niet opnieuw geupload te worden.
+
+BELANGRIJK - FORMULIER ACTIVEREN
+Dit formulier gebruikt de externe dienst FormSubmit (formsubmit.co).
+Na de EERSTE testinzending stuurt FormSubmit een activatiemail naar rvaneng@gmail.com. Open die mail en bevestig de activatielink (controleer ook spam). Pas daarna worden formulieraanvragen doorgestuurd naar je mailbox.
+Test daarna opnieuw met je eigen gegevens. Er kan een CAPTCHA verschijnen.
+
+FormSubmit is een externe dienst die persoonsgegevens van inzenders verwerkt. Voeg voor definitieve publicatie een passende privacyverklaring toe en controleer of de dienst voldoet aan je privacy-eisen.
+
+Let op: de website bevat nog placeholders voor projectfoto's.
