@@ -1,7 +1,10 @@
-R van Engelenhoven Dienstverlening - bijgewerkte GitHub-versie
+R VAN ENGELENHOVEN - GITHUB UPDATE ONS VAKMANSCHAP
 
-In deze versie: contactgegevens met alleen Barneveld, telefoon, e-mail, KvK en btw-id. IBAN en volledig straatadres staan NIET op de website. De zes partnerlogo’s en beschrijvingen blijven behouden.
+Upload in de HOOFDMAP van GitHub: index.html en style.css (bestaande vervangen).
+Upload IN DE MAP assets: dienst-timmerwerk.jpg, dienst-verbouwingen.jpg, dienst-interieurmontage.jpg.
+Laat alle andere bestanden en logo’s staan.
 
-Upload index.html en style.css naar de hoofdmap van je bestaande repository. Upload de map assets met alle afbeeldingen naar assets/ als die nog niet aanwezig zijn. De bestandsstructuur is belangrijk. Bij bestaande bestanden kies vervangen/overschrijven en Commit changes.
+Deze update bevat het bestaande offerteformulier en de partnerlinks. Het formulier via FormSubmit moet nog geactiveerd en getest worden.
+De eerste twee foto’s zijn eigen aangeleverde werkfoto’s; de derde is een gegenereerd sfeerbeeld en geen uitgevoerd project.
 
-LET OP: als je op GitHub sinds de vorige ZIP zelf wijzigingen hebt gemaakt, kunnen die bij overschrijven verdwijnen. Download eerst een back-up van de huidige repository. De projectfoto’s zijn nog placeholders; voeg echte foto’s toe voordat je de website definitief gebruikt. Controleer de wettelijke verplichte bedrijfsinformatie en privacyverklaring voor publicatie.
+Maak vooraf een back-up van je huidige bestanden, want vervangen overschrijft eventuele recentere wijzigingen.
