@@ -1,5 +1,1 @@
-MOBIELE WEERGAVE FIX
-
-Upload index.html en style.css in de HOOFDMAP van je GitHub-repository. Vervang de bestaande bestanden. De map assets en alle fotos hoef je niet opnieuw te uploaden.
-
-Open daarna je website opnieuw in Safari en ververs de pagina.
+Vervang alleen index.html en style.css in de hoofdmap van GitHub. Laat assets/ en script.js staan. De dubbele tekst naast het logo is verwijderd en het logo is groter gemaakt.
