@@ -1,7 +1,1 @@
-R VAN ENGELENHOVEN - COMPLETE WEBSITE MET PROJECT 02
-
-Deze map bevat alle bestanden van de samengestelde website.
-Upload index.html, style.css, script.js en de INHOUD van assets naar dezelfde plekken in je GitHub repository rve1302/rvanengelenhoven-.
-Let op: GitHub Pages pakt ZIP-bestanden niet automatisch uit. Pak de ZIP eerst uit op je iPhone.
-De originele foto's van project 02 staan in assets/project-02-01.jpg t/m project-02-06.jpg. Geen AI-bewerking toegepast.
-Maak voor upload een back-up van de huidige GitHub-bestanden. De bestaande website kan sinds de vorige versie online gewijzigd zijn.
+Upload index.html, style.css, script.js, project-zolderrenovatie.html en project-lattenwanden.html naar de hoofdmap van de GitHub repository. Upload de complete inhoud van assets/ in de map assets/ (inclusief het gouden logo). Maak eerst een back-up van de huidige site. De projectpagina’s bevatten het contactformulier met ontvanger rvaneng@gmail.com en telefoon 06 53916425; controleer deze gegevens voor publicatie.
