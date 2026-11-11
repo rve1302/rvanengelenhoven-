@@ -1,1 +1,8 @@
-Vervang alleen index.html en style.css in de hoofdmap van GitHub. Laat assets/ en script.js staan. De dubbele tekst naast het logo is verwijderd en het logo is groter gemaakt.
+PROJECT 01 — GITHUB UPDATE
+
+1. Upload index.html en style.css naar de hoofdmap van de repository (vervang bestaande bestanden).
+2. Upload alle 7 JPG-bestanden uit de map assets naar de bestaande GitHub-map assets.
+3. Laat script.js en alle andere afbeeldingen staan.
+4. Commit changes en vernieuw de website na de GitHub Pages-publicatie.
+
+Let op: deze update is gebaseerd op de laatst gemaakte header-versie. Maak een back-up als je sindsdien zelf wijzigingen hebt gedaan.

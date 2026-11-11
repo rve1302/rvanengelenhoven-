@@ -1,10 +1,7 @@
-R VAN ENGELENHOVEN - GITHUB UPDATE ONS VAKMANSCHAP
+R VAN ENGELENHOVEN - COMPLETE WEBSITE MET PROJECT 02
 
-Upload in de HOOFDMAP van GitHub: index.html en style.css (bestaande vervangen).
-Upload IN DE MAP assets: dienst-timmerwerk.jpg, dienst-verbouwingen.jpg, dienst-interieurmontage.jpg.
-Laat alle andere bestanden en logo’s staan.
-
-Deze update bevat het bestaande offerteformulier en de partnerlinks. Het formulier via FormSubmit moet nog geactiveerd en getest worden.
-De eerste twee foto’s zijn eigen aangeleverde werkfoto’s; de derde is een gegenereerd sfeerbeeld en geen uitgevoerd project.
-
-Maak vooraf een back-up van je huidige bestanden, want vervangen overschrijft eventuele recentere wijzigingen.
+Deze map bevat alle bestanden van de samengestelde website.
+Upload index.html, style.css, script.js en de INHOUD van assets naar dezelfde plekken in je GitHub repository rve1302/rvanengelenhoven-.
+Let op: GitHub Pages pakt ZIP-bestanden niet automatisch uit. Pak de ZIP eerst uit op je iPhone.
+De originele foto's van project 02 staan in assets/project-02-01.jpg t/m project-02-06.jpg. Geen AI-bewerking toegepast.
+Maak voor upload een back-up van de huidige GitHub-bestanden. De bestaande website kan sinds de vorige versie online gewijzigd zijn.
